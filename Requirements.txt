@@ -1,0 +1,9 @@
+Python3 & pip should be installed in the system.(I have used python 3.10 version)
+OS:-Windows/Linux
+Download the below Python Libraries:
+->OpenCV
+->NumPy
+->CMake
+->Dlib
+->sklearn.cluster
+Just google the above libraries & you will easily find the link to download from their sources.
